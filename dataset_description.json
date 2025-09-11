@@ -1,0 +1,18 @@
+{
+	"Name": "AMRI 00-N-082 Natural Stimuli",
+	"BIDSVersion": "1.4.1",
+	"HEDVersion": "",
+	"DatasetType": "raw",
+	"License": "LICENSE",
+	"Authors": [
+		"Mandelkow, Hendrik",
+		"Duyn, Jeff H",
+		"de Zwart, Jacco A"
+	],
+	"Acknowledgements": "n/a",
+	"HowToAcklowledge": "n/a",
+	"Funding": ["NINDS/NIH intramural"],
+	"EthicsApprovals": ["NIH protocol 00-N-0082"],
+	"ReferenceAndLinks": ["https://doi.org/10.1016/j.neuroimage.2017.08.053"],
+	"DatasetDOI": "doi:10.18112/openneuro.ds00000000.v1.0.0"
+}

@@ -1,0 +1,8 @@
+This dataset contains the data that form the basis for the publication "Linear
+Discriminant Analysis Achieves High Classification Accuracy for the BOLD fMRI
+Response to Naturalistic Movie Stimuli" by Mandelkow et al.
+(https://doi.org/10.3389/fnhum.2016.00128), which were acquired at the
+National Institutes of Health under NINDS protocol 00-N-0082 in 2012-2015.
+Of the 10 subjects for which data are included here, subject *, *, * and *
+where included in the manuscript. As a stimulus, participants viewed a 5-minute
+section (opening scence) of the movie 'The Matrix' (without audio).
