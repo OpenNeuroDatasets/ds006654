@@ -1,6 +1,6 @@
 This dataset contains the data that form the basis for the publication "Effects of spatial fMRI resolution on the classification of naturalistic movies" by Mandelkow et al. (https://doi.org/10.1016/j.neuroimage.2017.08.053), which were acquired at the National Institutes of Health under NINDS protocol 00-N-0082 in 2012-2015. Of the 10 subjects that were scanned for this study, data from only 7 were included in the manuscript.
 
-As a stimulus, participants viewed (without audio) one of two 5-minute sections of the movie 'The Matrix' (task-Mx1 and task-Mx2), or a 5-min section of 'The Good, the Bad and the Ugly' (task-Gbu1). Some high-temporal-resolution scans of a single slice are also included (task-ffMRI).
+As a stimulus, participants viewed (without audio) one of two 5-minute sections of the movie 'The Matrix' (task-Mx1 and task-Mx2), or a 5-min section of 'The Good, the Bad and the Ugly' (task-Gbu1). Some high-temporal-resolution scans of a single slice, without stimulus, e.g. for characterization of cardiac artifacts, are also included (task-ffMRI).
 
 Data were acquired at two spatial resolutions, 2.0 mm^3 (acq-Lr) and 1.2 mm^3 (acq-Hr). In the func/ folder, magnitude fMRI time series data are provided (.nii.gz), as well as eye tracking data (_vpdat.txt and _vpset?.txt).
 
