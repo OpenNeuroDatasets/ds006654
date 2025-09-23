@@ -4,4 +4,4 @@ As a stimulus, participants viewed (without audio) one of two 5-minute sections 
 
 Data were acquired at two spatial resolutions, 2.0 mm^3 (acq-Lr) and 1.2 mm^3 (acq-Hr). In the func/ folder, magnitude fMRI time series data are provided (.nii.gz), as well as eye tracking data (_vpdat.txt and _vpset#.txt). The run-# tag is used to mark the order in which scans were acquired within a session.
 
-For more details please refer to the Materials and Methods in https://doi.org/10.1016/j.neuroimage.2017.08.053, or reach out to one of the authors.
+For more details please refer to the Methods section in https://doi.org/10.1016/j.neuroimage.2017.08.053, or reach out to one of the authors.
