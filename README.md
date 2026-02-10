@@ -1,6 +1,3 @@
-# NatStim data on OpenNeuro.org
-- https://openneuro.org/datasets/ds006654
-
 ## README
 ### How does the accuracy of machine-learning classifiers depend on fMRI resolution?
 High-field (7T) high-resolution (1.2mm) fMRI and eye tracking data from human subjects repeatedly watching 5-minute clips of naturalistic (cinematic) movie content without sound. A high number of repeated stimulus presentations and fMRI acquisitions at two different resolutions (1.2mm and 2mm isotropic) were chosen to investigate the accuracy of machine-learning classifiers and to test its dependence on fMRI resolution. Please find details in below publication [Mandelkow et al. 2017], which should be quoted as a reference. All data were acquired at the National Institutes of Health under NINDS protocol 00-N-0082 in 2012-2015. Of the 10 subjects that were scanned for this study, data from 3 were incomplete; only 7 subjects were included in the manuscript.
