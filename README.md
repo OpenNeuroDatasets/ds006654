@@ -14,7 +14,7 @@ https://doi.org/10.1016/j.neuroimage.2017.08.053
 ##### `sub-02_ses-05_task-Mx1_acq-Hr_run-2_bold.nii.gz`
 One run of BOLD fMRI data in Nifty format (.nii.gz).
 - `sub-##` : human subject number ##
-- `ses-##` : experimental session number ## (Each subject participated in 1-5 separate sessions.)
+- `ses-##` : experimental session number ## (1-5 separate sessions per subject)
 - `task-*` : stimulus presented (5' movie clip)
 	- `task-Mx1` : The Matrix I opening scene
 	- `task-Mx2` : The Matrix II
