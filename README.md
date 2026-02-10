@@ -5,11 +5,12 @@ High-field (7T) high-resolution (1.2mm) fMRI and eye tracking data from human su
 H. Mandelkow, J.A. de Zwart, J.H. Duyn, 2017, NeuroImage  
 https://doi.org/10.1016/j.neuroimage.2017.08.053  
 
+
 ### Data Files
 #### MRI anatomy
-
 ##### `sub-02_ses-05_acq-AnaGE_T2w.nii.gz` : gradient-echo anatomy (magnitude)
 ##### `sub-02_ses-05_acq-AnaGEp_T2w.nii.gz` : gradient-echo anatomy (phase)
+
 #### fMRI data
 ##### `sub-02_ses-05_task-Mx1_acq-Hr_run-2_bold.nii.gz`
 One run of BOLD fMRI data in Nifty format (.nii.gz).
