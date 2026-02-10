@@ -5,12 +5,9 @@ High-field (7T) high-resolution (1.2mm) fMRI and eye tracking data from human su
 H. Mandelkow, J.A. de Zwart, J.H. Duyn, 2017, NeuroImage  
 https://doi.org/10.1016/j.neuroimage.2017.08.053  
 
+**********************************************************************
 
 ### Data Files
-#### MRI anatomy
-##### `sub-02_ses-05_acq-AnaGE_T2w.nii.gz` : gradient-echo anatomy (magnitude)
-##### `sub-02_ses-05_acq-AnaGEp_T2w.nii.gz` : gradient-echo anatomy (phase)
-
 #### fMRI data
 ##### `sub-02_ses-05_task-Mx1_acq-Hr_run-2_bold.nii.gz`
 One run of BOLD fMRI data in Nifty format (.nii.gz).
@@ -23,6 +20,10 @@ One run of BOLD fMRI data in Nifty format (.nii.gz).
 	- `tast-ffMRI` : single-slice (fast) fMRI with high temporal resolution without stimulus e.g. for characterizing cardiac artifacts
 - `acq-Hr` / `acq-Lr` : Higher- / Lower-resolution fMRI acquisitions at 1.2mm / 2mm isotropic
 - `run-#` : experimental run number within each fMRI session in temporal order
+
+#### MRI anatomy
+##### `sub-02_ses-05_acq-AnaGE_T2w.nii.gz` : gradient-echo anatomy (magnitude)
+##### `sub-02_ses-05_acq-AnaGEp_T2w.nii.gz` : gradient-echo anatomy (phase)
 
 #### Eye-tracking data
 ##### `sub-02_ses-05_task-Mx1_acq-Hr_run-2_vpdat.txt`
