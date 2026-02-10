@@ -5,6 +5,8 @@ High-field (7T) high-resolution (1.2mm) fMRI and eye tracking data from human su
 H. Mandelkow, J.A. de Zwart, J.H. Duyn, 2017, NeuroImage  
 https://doi.org/10.1016/j.neuroimage.2017.08.053  
 
+**Keywords**: fMRI; High-resolution; High-field; 7T; Multivariate pattern analysis; MVPA; Naturalistic stimuli; Movies; Eye tracking
+
 **********************************************************************
 
 ### Data Files
