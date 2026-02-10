@@ -34,3 +34,5 @@ One run of BOLD fMRI data in Nifty format (.nii.gz).
 - **`*_vpdat.txt`** : eye-tracking data
 - `*_vpset2.txt` : calibration at movie end
 - `*_vpset3.txt` : calibration after movie end
+
+![[participants.tsv]]
