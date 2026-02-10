@@ -20,7 +20,7 @@ One run of BOLD fMRI data in Nifty format (.nii.gz).
 	- `task-Mx2` : The Matrix II
 	- `task-Gbu1` : The Good, the Bad, and the Ugly
 	- `tast-ffMRI` : single-slice (fast) fMRI with high temporal resolution without stimulus e.g. for characterizing cardiac artifacts
-- `acq-Hr` / `acq-Lr` : Higher- / Lower-resolution fMRI acquisitions at 1.2mm / 2mm isotropic
+- `acq-Hr` / `acq-Lr` : Higher- / Lower-resolution fMRI at 1.2mm / 2mm isotropic
 - `run-#` : experimental run number within each fMRI session in temporal order
 
 #### MRI anatomy
