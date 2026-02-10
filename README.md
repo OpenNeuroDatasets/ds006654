@@ -8,7 +8,7 @@ https://doi.org/10.1016/j.neuroimage.2017.08.053
 **********************************************************************
 
 ### Data Files
-*NOTE: This dataset comprises 7 subjects. Of the original 10 subjects three were discarded without analysis due to subsequent changes in the experimental protocol (MRI sequences).*
+*NOTE: This dataset comprises 7 subjects, 4 with >16 movie stimulus repetitions. Of the original 10 subjects three were discarded without analysis due to subsequent changes in the experimental protocol (MRI sequences).*
 
 #### fMRI data
 ##### `sub-02_ses-05_task-Mx1_acq-Hr_run-2_bold.nii.gz`
