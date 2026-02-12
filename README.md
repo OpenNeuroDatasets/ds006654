@@ -14,7 +14,7 @@ https://doi.org/10.1016/j.neuroimage.2017.08.053
 
 #### fMRI data
 ##### `sub-02_ses-05_task-Mx1_acq-Hr_run-2_bold.nii.gz`
-One run of BOLD fMRI data in Nifty format (.nii.gz).
+One run of BOLD fMRI data in Nifti (https://nifti.nimh.nih.gov) format (.nii.gz).
 - `sub-##` : human subject number ##
 - `ses-##` : experimental session number ## (1-5 separate sessions per subject)
 - `task-*` : stimulus presented (5' movie clip)
